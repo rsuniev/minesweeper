@@ -4,6 +4,9 @@ in Clojure
 
 #Clojure version 1.2-SNAPSHOT
 
+use lein deps
+to download dependencies
+
 
 
 
