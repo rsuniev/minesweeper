@@ -23,7 +23,7 @@
 
 (deftest test-create-board
   (is (= *board* [{:x 0 :y 0 :mine false}
-                  {:x 1 :y 1 :mine false}
+                  {:x 0 :y 1 :mine false}
                   {:x 1 :y 0 :mine false}
                   {:x 1 :y 1 :mine false}])))
 
